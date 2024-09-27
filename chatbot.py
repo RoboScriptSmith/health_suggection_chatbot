@@ -11,7 +11,7 @@ import google.generativeai as genai
 import streamlit as st
 import os
 
-gemini_api_key = "AIzaSyAo4RnXH1xfNXp5MIYvI95YJLZytWUo-Zw"  # upload the api key
+gemini_api_key = "AIzaSyBuE6YOjVUA_xQ7v9ENEFwdigoq2n8cZIk"  # upload the api key
 
 genai.configure(api_key=gemini_api_key)
 
